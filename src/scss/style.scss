@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.product-card {
+	background-color: lightgreen;
+
+	.img-wrapper {
+		background-color: lightcoral;
+
+		img {
+			height: 200px;
+		}
+	}
+}
