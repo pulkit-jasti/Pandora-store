@@ -22,7 +22,7 @@ function App() {
 					{data.map(el => {
 						return (
 							<ProductCard
-								imgsrc={rand}
+								imgsrc={el.productImgSrc}
 								title={el.productTitle}
 								description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto hic incidunt placeat provident, animi ipsam sit illo ad fugiat nemo impedit libero, nostrum eveniet numquam illum sequi quidem id. Ad.'
 							/>
