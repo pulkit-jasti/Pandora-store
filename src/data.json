@@ -1,0 +1,15 @@
+{[
+	{
+		"productTitle": "Gate of Truth",
+		"productImgSrc": "./assets/product-images/gate-of-truth.png",
+		"productCost": "100 Units",
+		"productDes": "lorem ipsum"
+	},
+	{
+		"productTitle": "Dark Saber",
+		"productImgSrc": "./assets/product-images/darksaber.png",
+		"productCost": "100 Units",
+		"productDes": "lorem ipsum"
+	}
+]
+}
