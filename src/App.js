@@ -3,8 +3,6 @@ import './css/style.min.css';
 
 import ProductCard from './components/ProductCard';
 
-import rand from './assets/test.jpeg';
-
 import data from './data';
 
 let request = new XMLHttpRequest();

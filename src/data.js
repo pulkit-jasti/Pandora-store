@@ -204,10 +204,10 @@ let data = [
 		productDes: 'lorem ipsum',
 	},
 	{
-		productTitle: 'Celestialsapien',
+		productTitle: 'Celestialsapien DNA',
 		productImgSrc: 'https://raw.githubusercontent.com/pulkit-jasti/Pandora-store/master/src/assets/product-images/celestialsapien.png',
 		productCost: '100 Units',
-		productDes: 'lorem ipsum',
+		productDes: '(Only DNA)',
 	},
 ];
 
