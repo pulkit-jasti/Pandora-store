@@ -9,7 +9,7 @@ function ProductCard(props) {
 						<img src={props.imgsrc} alt='' />
 					</div>
 					<h4 className='product-title'>{props.title}</h4>
-					<p className='product-info'>{props.description}</p>
+					<p className='product-info'>{props.info}</p>
 					<button className='add-to-cart'>
 						Add to Cart <span>🛒</span>
 					</button>
