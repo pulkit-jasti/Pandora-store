@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pandora-store/static/css/main.4e519e04.chunk.css",
+    "main.js": "/Pandora-store/static/js/main.6483755e.chunk.js",
+    "main.js.map": "/Pandora-store/static/js/main.6483755e.chunk.js.map",
+    "runtime-main.js": "/Pandora-store/static/js/runtime-main.dfbaae40.js",
+    "runtime-main.js.map": "/Pandora-store/static/js/runtime-main.dfbaae40.js.map",
+    "static/js/2.b67d7294.chunk.js": "/Pandora-store/static/js/2.b67d7294.chunk.js",
+    "static/js/2.b67d7294.chunk.js.map": "/Pandora-store/static/js/2.b67d7294.chunk.js.map",
+    "index.html": "/Pandora-store/index.html",
+    "static/css/main.4e519e04.chunk.css.map": "/Pandora-store/static/css/main.4e519e04.chunk.css.map",
+    "static/js/2.b67d7294.chunk.js.LICENSE.txt": "/Pandora-store/static/js/2.b67d7294.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfbaae40.js",
+    "static/js/2.b67d7294.chunk.js",
+    "static/css/main.4e519e04.chunk.css",
+    "static/js/main.6483755e.chunk.js"
+  ]
+}
